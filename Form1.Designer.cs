@@ -87,7 +87,7 @@ namespace WindowsFormsApp2
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.DarkGreen;
-            this.label4.Location = new System.Drawing.Point(335, 406);
+            this.label4.Location = new System.Drawing.Point(349, 406);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(53, 23);
             this.label4.TabIndex = 7;

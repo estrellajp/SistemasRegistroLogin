@@ -8,3 +8,14 @@ C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.cs
 C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.exe
 C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\bin\Debug\WindowsFormsApp2.exe
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.exe
+C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.pdb
