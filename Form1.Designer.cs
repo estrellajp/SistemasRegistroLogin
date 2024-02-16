@@ -87,7 +87,7 @@ namespace WindowsFormsApp2
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.DarkGreen;
-            this.label4.Location = new System.Drawing.Point(349, 406);
+            this.label4.Location = new System.Drawing.Point(358, 408);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(53, 23);
             this.label4.TabIndex = 7;
@@ -115,6 +115,7 @@ namespace WindowsFormsApp2
             this.button1.TabIndex = 5;
             this.button1.Text = "Entrar";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox2
             // 
@@ -174,8 +175,9 @@ namespace WindowsFormsApp2
             this.ClientSize = new System.Drawing.Size(814, 480);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Hospital La Luz";
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel2.ResumeLayout(false);

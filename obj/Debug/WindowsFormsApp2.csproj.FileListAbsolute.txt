@@ -8,6 +8,7 @@ C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.cs
 C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.exe
 C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.pdb
+<<<<<<< HEAD
 C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\bin\Debug\WindowsFormsApp2.exe.config
 C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\bin\Debug\WindowsFormsApp2.exe
 C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\bin\Debug\WindowsFormsApp2.pdb
@@ -19,3 +20,6 @@ C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\Sis
 C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.exe
 C:\Users\mcfal\OneDrive\Escritorio\DAM\2º\DesarrolloInterfaces\Practica\Net\SistemasRegistroLogin\obj\Debug\WindowsFormsApp2.pdb
+=======
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.Form1.resources
+>>>>>>> a15bbf7e4594080e5922deee056fe9212b49b1b2
