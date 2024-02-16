@@ -54,7 +54,6 @@ namespace WindowsFormsApp2
             this.label1.Size = new System.Drawing.Size(107, 28);
             this.label1.TabIndex = 0;
             this.label1.Text = "Nombre";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -67,7 +66,6 @@ namespace WindowsFormsApp2
             this.label2.Size = new System.Drawing.Size(92, 28);
             this.label2.TabIndex = 1;
             this.label2.Text = "Correo";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
@@ -80,7 +78,6 @@ namespace WindowsFormsApp2
             this.label3.Size = new System.Drawing.Size(147, 28);
             this.label3.TabIndex = 2;
             this.label3.Text = "Contraseña";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -93,7 +90,6 @@ namespace WindowsFormsApp2
             this.label4.Size = new System.Drawing.Size(235, 28);
             this.label4.TabIndex = 3;
             this.label4.Text = "Validar contraseña";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // button1
             // 
@@ -115,7 +111,6 @@ namespace WindowsFormsApp2
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(241, 36);
             this.textBox1.TabIndex = 5;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // textBox2
             // 
@@ -155,7 +150,6 @@ namespace WindowsFormsApp2
             this.label5.Size = new System.Drawing.Size(165, 38);
             this.label5.TabIndex = 9;
             this.label5.Text = "REGISTRO";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // checkBox1
             // 
@@ -169,7 +163,6 @@ namespace WindowsFormsApp2
             this.checkBox1.TabIndex = 10;
             this.checkBox1.Text = "Coinciden";
             this.checkBox1.UseVisualStyleBackColor = false;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // Form2
             // 
