@@ -1,0 +1,10 @@
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Alberto\source\repos\SistemaLoginRegistro\obj\Debug\WindowsFormsApp2.pdb
