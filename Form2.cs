@@ -94,5 +94,13 @@ namespace WindowsFormsApp2
                 checkBox1.Checked = false;
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            correoElectronico = textBox2.Text;
+            contra = textBox3.Text;
+
+            MessageBox.Show("Registro exitoso!");
+        }
     }
 }
