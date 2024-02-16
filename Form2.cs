@@ -101,6 +101,13 @@ namespace WindowsFormsApp2
             contra = textBox3.Text;
 
             MessageBox.Show("Registro exitoso!");
+
+            // Crear una instancia de Form1
+            Form1 form1 = new Form1();
+            // Mostrar Form1
+            form1.Show();
+            // Ocultar Form2
+            this.Hide();
         }
     }
 }
